@@ -8,5 +8,5 @@ The following challenge uses Jupyter notebook to scrape the data from the websit
 for the temperature for Mars.  This is done with splinter, HTML parsing with BeautifulSoup.
 
 Within the folder "HTML-Challenge", you'll find the "Resources" folder which contains the csv files.  There is also the
-part_1_mars_news for Scraping Titles and Previewing Text from Mars News, and part_2_mars_weather for 
+"part_1_mars_news" notebook for Scraping Titles and Previewing Text from Mars News, and "part_2_mars_weather" notebook for 
 Scraping and Analyzing Mars Weather Data.
